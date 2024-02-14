@@ -2,3 +2,5 @@
 
 > Badges
   ![Postman - Postman API Fundamentals Student Expert - 2024-01-22](https://github.com/shrsyc/shrsyc/assets/99862109/14d4c126-458d-4bed-b0b4-2e408b1afec7)
+
+<img src="https://github.com/shrsyc/shrsyc/assets/99862109/14d4c126-458d-4bed-b0b4-2e408b1afec7" width="200">
