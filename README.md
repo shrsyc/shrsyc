@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm <a href="https://shrsyc.tech/">Shreyas</a></h2>
 
-<p>I'm currently a DevOps intern at <strong><a href="https://www.discoverdollar.com/">Discover Dollar</a></strong>. Outside of work, I’m building side projects, diving deeper into DevOps tools, and sometimes experimenting with new dishes. When I’m not coding, you’ll probably find me digging through logs and tracing issues.</p>
+<p>I'm currently a DevOps Engineer 1 at <strong><a href="https://www.discoverdollar.com/">Discover Dollar</a></strong>. Outside of work, I’m building side projects, diving deeper into DevOps tools, and sometimes experimenting with new dishes. When I’m not coding, you’ll probably find me digging through logs and tracing issues.</p>
 
 <h2>🎓 Certifications & Badges</h2>
 <img src="https://github.com/shrsyc/shrsyc/assets/99862109/14d4c126-458d-4bed-b0b4-2e408b1afec7" width="80">
